@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hello, I am Glen 👋. Welcome to my GitHub profile!
 
 [![An image of @glenlyh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/glenlyh)](https://holopin.io/@glenlyh)
+
+<!--- 
+### Hi there 👋
+-->
 
 <!---
 **GlenLYH/GlenLYH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
