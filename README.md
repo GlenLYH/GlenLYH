@@ -1,4 +1,4 @@
-### Hello, I am Glen 👋. Welcome to my GitHub profile!
+### Hello, I'm Glen 👋. Welcome to my GitHub profile!
 <br>
 
 [![An image of @glenlyh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/glenlyh)](https://holopin.io/@glenlyh)
