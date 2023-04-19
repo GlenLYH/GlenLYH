@@ -1,11 +1,14 @@
 ### Hello, I'm Glen 👋. Welcome to my GitHub profile!
 <br>
 
+[![An image of @glenlyh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/glenlyh)](https://holopin.io/@glenlyh)
+
+<!---
 <table>
   <tbody>
     <tr>
       <td>
-        [![An image of @glenlyh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/glenlyh)] (https://holopin.io/@glenlyh)
+        [![An image of @glenlyh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/glenlyh)](https://holopin.io/@glenlyh)
       </td>
       <td>
         <a href="https://app.daily.dev/GlenLYH"><img src="https://api.daily.dev/devcards/d5cfa60a8e3645f7b4cc80c852178c71.png?r=ijm" width="250" alt="Glen Lim Yi Hern's Dev Card"/></a>
@@ -13,6 +16,7 @@
     </tr>
   </tbody>
 </table>
+--->
 
 <!--- 
 ### Hi there 👋
