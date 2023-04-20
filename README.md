@@ -14,6 +14,14 @@
   </tbody>
 </table>
 
+<!-- Programming Languages -->
+
+<!-- Common Packages -->
+
+<!-- Uncommon Packages -->
+
+<!-- Other Platforms -->
+
 <!---
 [![An image of @glenlyh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/glenlyh)](https://holopin.io/@glenlyh)
 --->
