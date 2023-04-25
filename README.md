@@ -21,7 +21,7 @@
 <!-- Uncommon Packages -->
 
 <!-- No-code Platforms -->
-### Other Platforms
+### No-code Platforms
 <a href = "https://www.airtable.com/"><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/airtable_logo/air_table.png" title = "Airtable" alt = "" height = "30" /></a>
 <a href = "https://www.jotform.com/"><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/jotform_logo/jotform.png" title = "Jotform" alt = "" height = "30" /></a>
 <a href = "https://www.glideapps.com/"><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/glide_logo/glide.png" title = "Glide Apps" alt = "" height = "30" /></a>
