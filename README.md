@@ -24,7 +24,7 @@
 ### No-code Platforms
 <a href = "https://www.airtable.com/"><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/airtable_logo/air_table.png" title = "Airtable" alt = "" height = "30" /></a>
 <a href = "https://www.jotform.com/"><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/jotform_logo/jotform.png" title = "Jotform" alt = "" height = "30" /></a>
-<a href = "https://www.glideapps.com/"><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/glide_logo/glide.png" title = "Glide Apps" alt = "" height = "30" /></a>
+<a href = "https://www.glideapps.com/"><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/glide_logo/glide.svg" title = "Glide Apps" alt = "" height = "30" /></a>
 <a href = "https://miniextensions.com/"><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/miniExtensions_logo/miniExtensions.webp" title = "miniExtensions" alt = "" height = "30" /></a>
 <a href = "https://documint.me/"><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/documint_logo/documint.avif" title = "Documint" alt = "" height = "30" /></a>
 <a href = "https://zapier.com/"><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/zapier_logo/zapier.png" title = "Zapier" alt = "" height = "30" /></a>
