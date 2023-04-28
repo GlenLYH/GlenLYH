@@ -40,6 +40,7 @@
 <a href = "https://documint.me/"><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/documint_logo/documint.avif" title = "Documint" alt = "" height = "30" /></a>
 <a href = "https://zapier.com/"><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/zapier_logo/zapier.png" title = "Zapier" alt = "" height = "30" /></a>
 <a href = "https://monday.com/"><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/monday_com_logo/monday_com_white.png" title = "monday.com" alt = "" height = "30" /></a>
+<a href = "https://www.make.com/"><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/make_logo/make_logo.svg" title = "make" alt = "" height = "30" /></a>
 
 <!---
 [![An image of @glenlyh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/glenlyh)](https://holopin.io/@glenlyh)
