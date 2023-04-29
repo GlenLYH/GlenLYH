@@ -29,8 +29,6 @@
 <a><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/programming_icons/programming_packages_icons/scikit_learn_logo/scikit_learn_logo.svg.png" title = "Scikit Learn" alt = "" height = "30" /></a>
 <a><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/programming_icons/programming_packages_icons/alpha_vantage_logo/alpha_vantage_icon.svg" title = "Alpha Vantage" alt = "" height = "30" /></a>
 
-<!-- Uncommon Packages -->
-
 <!-- No-code Platforms -->
 ### No-code Platforms
 <a href = "https://www.airtable.com/"><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/airtable_logo/air_table.png" title = "Airtable" alt = "" height = "30" /></a>
