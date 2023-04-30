@@ -1,4 +1,4 @@
-## Hello, I'm Glen 👋. Welcome to my GitHub profile!
+## Hello, I'm Glen! Welcome to my GitHub profile!
 <br>
 
 <table>
@@ -46,6 +46,10 @@
 
 <!--- 
 ### Hi there 👋
+-->
+
+<!---
+## Hello, I'm Glen 👋. Welcome to my GitHub profile!
 -->
 
 <!---
