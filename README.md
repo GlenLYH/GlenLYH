@@ -21,7 +21,7 @@
 <a><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/programming_icons/programming_languages_icons/javascript_logo/javascript_icon.svg" title = "JS" alt = "" height = "30" /></a>
 <a><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/programming_icons/programming_languages_icons/css3_logo/css3_icon.svg" title = "CSS" alt = "" height = "30" /></a>
 
-<!-- Common Packages -->
+<!-- Packages -->
 ### Packages
 <a><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/programming_icons/programming_packages_icons/numpy_logo/numpy_icon.svg" title = "Numpy" alt = "" height = "30" /></a>
 <a><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/programming_icons/programming_packages_icons/pandas_logo/pandas_icon.svg" title = "Pandas" alt = "" height = "30" /></a>
