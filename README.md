@@ -5,6 +5,9 @@
   <tbody>
     <tr>
       <td>
+        <!---
+        [![An image of @glenlyh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/glenlyh)](https://holopin.io/@glenlyh)
+        --->
         <a href="https://holopin.io/@glenlyh"><img src="https://holopin.me/glenlyh" width="1000" alt="@glenlyh's Holopin board"/></a>
       </td>
       <td>
@@ -41,10 +44,6 @@
 <a href = "https://www.make.com/"><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/make_logo/make_logo.svg" title = "make" alt = "" height = "30" /></a>
 <a href = "https://www.docusign.com/"><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/docusign_logo/docusign.svg" title = "DocuSign" alt = "" height = "30" /></a>
 <a href = "https://www.stackerhq.com/"><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/stacker_logo/stacker.svg" title = "Stacker" alt = "" height = "30" /></a>
-
-<!---
-[![An image of @glenlyh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/glenlyh)](https://holopin.io/@glenlyh)
---->
 
 <!--- 
 ### Hi there 👋
