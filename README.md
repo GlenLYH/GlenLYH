@@ -19,10 +19,10 @@
 
 <!-- Languages -->
 ### Languages
-<a><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/programming_icons/programming_languages_icons/python_logo/python_icon.svg" title = "Python" alt = "" height = "30" /></a>
-<a><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/programming_icons/programming_languages_icons/html5_logo/html5_icon.svg" title = "HTML" alt = "" height = "30" /></a>
-<a><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/programming_icons/programming_languages_icons/javascript_logo/javascript_icon.svg" title = "JS" alt = "" height = "30" /></a>
-<a><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/programming_icons/programming_languages_icons/css3_logo/css3_icon.svg" title = "CSS" alt = "" height = "30" /></a>
+<a href = "https://www.python.org/"><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/programming_icons/programming_languages_icons/python_logo/python_icon.svg" title = "Python" alt = "" height = "30" /></a>
+<a href = "https://html.spec.whatwg.org/"><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/programming_icons/programming_languages_icons/html5_logo/html5_icon.svg" title = "HTML" alt = "" height = "30" /></a>
+<a href = "https://www.ecma-international.org/publications-and-standards/standards/ecma-262/"><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/programming_icons/programming_languages_icons/javascript_logo/javascript_icon.svg" title = "JS" alt = "" height = "30" /></a>
+<a href = "https://www.w3.org/TR/CSS/#css"><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/programming_icons/programming_languages_icons/css3_logo/css3_icon.svg" title = "CSS" alt = "" height = "30" /></a>
 
 <!-- Packages -->
 ### Packages
