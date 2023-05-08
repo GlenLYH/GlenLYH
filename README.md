@@ -5,9 +5,9 @@
   <tbody>
     <tr>
       <td>
-        <!---
+        <!--
         [![An image of @glenlyh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/glenlyh)](https://holopin.io/@glenlyh)
-        --->
+        -->
         <a href="https://holopin.io/@glenlyh"><img src="https://holopin.me/glenlyh" width="1000" alt="@glenlyh's Holopin board"/></a>
       </td>
       <td>
@@ -30,7 +30,8 @@
 <a href = "https://scikit-learn.org/stable/"><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/programming_icons/programming_packages_icons/scikit_learn_logo/scikit_learn_logo.svg.png" title = "Scikit Learn" alt = "" height = "30" /></a>
 <a href = "https://www.alphavantage.co/"><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/programming_icons/programming_packages_icons/alpha_vantage_logo/alpha_vantage_icon.svg" title = "Alpha Vantage" alt = "" height = "30" /></a>
 
-### No-code/ Other Platforms
+<!-- ### No-code/ Other Platforms -->
+### Other Platforms
 <a href = "https://www.airtable.com/"><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/airtable_logo/air_table.png" title = "Airtable" alt = "" height = "30" /></a>
 <a href = "https://www.jotform.com/"><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/jotform_logo/jotform.png" title = "Jotform" alt = "" height = "30" /></a>
 <a href = "https://www.glideapps.com/"><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/glide_logo/glide.svg" title = "Glide Apps" alt = "" height = "30" /></a>
@@ -42,15 +43,15 @@
 <a href = "https://www.docusign.com/"><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/docusign_logo/docusign.svg" title = "DocuSign" alt = "" height = "30" /></a>
 <a href = "https://www.stackerhq.com/"><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/stacker_logo/stacker.svg" title = "Stacker" alt = "" height = "30" /></a>
 
-<!--- 
+<!--
 ### Hi there 👋
 -->
 
-<!---
+<!--
 ## Hello, I'm Glen 👋. Welcome to my GitHub profile!
 -->
 
-<!---
+<!--
 **GlenLYH/GlenLYH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
