@@ -25,7 +25,7 @@
 <a href = "https://www.w3.org/TR/CSS/#css"><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/programming_icons/programming_languages_icons/css3_logo/css3_icon.svg" title = "CSS" alt = "" height = "30"/></a>
 
 ### Packages
-<a href = "https://numpy.org/"><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/programming_icons/programming_packages_icons/numpy_logo/numpy_icon.svg" title = "Numpy" alt = "" height = "30"/></a>
+<a href = "https://numpy.org/"><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/programming_icons/programming_packages_icons/numpy_logo/numpy_icon.svg" title = "NumPy" alt = "" height = "30"/></a>
 <a href = "https://pandas.pydata.org/"><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/programming_icons/programming_packages_icons/pandas_logo/pandas_icon.svg" title = "Pandas" alt = "" height = "30"/></a>
 <a href = "https://matplotlib.org/"><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/programming_icons/programming_packages_icons/matplotlib_logo/matplotlib_logo.svg.png" title = "MatPlotLib" alt = "" height = "30"/></a>
 <a href = "https://scikit-learn.org/stable/"><img align = "center" src = "https://github.com/GlenLYH/GlenLYH/blob/main/assets/programming_icons/programming_packages_icons/scikit_learn_logo/scikit_learn_logo.svg.png" title = "Scikit Learn" alt = "" height = "30"/></a>
