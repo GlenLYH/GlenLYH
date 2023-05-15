@@ -17,7 +17,7 @@
   </tbody>
 </table>
 
-<!-- Programming Languages/ Markdown Languages -->
+<!-- Programming/ Markdown Languages -->
 ### Languages
 <a href="https://www.python.org/"><img align="center" src="https://github.com/GlenLYH/GlenLYH/blob/main/assets/programming_icons/programming_languages_icons/python_logo/python_icon.svg" title="Python" alt="" height="30"/></a>
 <a href="https://html.spec.whatwg.org/"><img align="center" src="https://github.com/GlenLYH/GlenLYH/blob/main/assets/programming_icons/programming_languages_icons/html5_logo/html5_icon.svg" title="HTML" alt="" height="30"/></a>
