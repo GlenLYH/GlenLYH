@@ -46,9 +46,7 @@
 
 <!-- ### Hi there 👋 -->
 
-<!--
-## Hello, I'm Glen 👋. Welcome to my GitHub profile!
--->
+<!-- ## Hello, I'm Glen 👋. Welcome to my GitHub profile! -->
 
 <!--
 **GlenLYH/GlenLYH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
