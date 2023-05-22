@@ -1,6 +1,5 @@
 ## Hello, I'm Glen! Welcome to my GitHub profile!
 <br>
-
 <table>
   <tbody>
     <tr>
