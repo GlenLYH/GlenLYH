@@ -46,11 +46,13 @@
 <!-- Text Editors -->
 <!--
 - VSC
+<a href="https://code.visualstudio.com/"><img align="center" src="https://github.com/GlenLYH/GlenLYH/blob/main/assets/text_editors_logos/vsc_logo/vscode.svg" title="VSC" alt="" height="30"/></a>
 -->
 
 <!-- Distributions -->
 <!--
 - Anaconda
+<a href="https://www.anaconda.com/"><img align="center" src="https://github.com/GlenLYH/GlenLYH/blob/main/assets/distribution_logos/anaconda_logo/anaconda.png" title="Anaconda" alt="" height="30"/></a>
 -->
 
 <!-- ### Hi there 👋 -->
