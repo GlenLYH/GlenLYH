@@ -46,16 +46,13 @@
 <!-- Text Editors -->
 <!--
 ### Text Editors
-- VSC
 <a href="https://code.visualstudio.com/"><img align="center" src="https://github.com/GlenLYH/GlenLYH/blob/main/assets/text_editors_logos/vsc_logo/vscode.svg" title="VSC" alt="" height="30"/></a>
-- Atom
 <a href="https://github.blog/2022-06-08-sunsetting-atom/"><img align="center" src="https://github.com/GlenLYH/GlenLYH/blob/main/assets/text_editors_logos/atom_logo/atom.svg" title="Atom" alt="" height="30"/></a>
 -->
 
 <!-- Distributions -->
 <!--
 ### Distributors
-- Anaconda
 <a href="https://www.anaconda.com/"><img align="center" src="https://github.com/GlenLYH/GlenLYH/blob/main/assets/distribution_logos/anaconda_logo/anaconda.png" title="Anaconda" alt="" height="30"/></a>
 -->
 
