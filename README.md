@@ -48,6 +48,9 @@
 ### Text Editors
 <a href="https://code.visualstudio.com/"><img align="center" src="https://github.com/GlenLYH/GlenLYH/blob/main/assets/text_editors_logos/vsc_logo/vscode.svg" title="VSC" alt="" height="30"/></a>
 <a href="https://github.blog/2022-06-08-sunsetting-atom/"><img align="center" src="https://github.com/GlenLYH/GlenLYH/blob/main/assets/text_editors_logos/atom_logo/atom.svg" title="Atom" alt="" height="30"/></a>
+
+Spyder?
+
 -->
 
 <!-- Distributions -->
