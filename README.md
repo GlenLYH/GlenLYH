@@ -50,6 +50,7 @@
 <a href="https://github.blog/2022-06-08-sunsetting-atom/"><img align="center" src="https://github.com/GlenLYH/GlenLYH/blob/main/assets/text_editors_logos/atom_logo/atom.svg" title="Atom" alt="" height="30"/></a>
 
 Spyder?
+https://www.spyder-ide.org/
 -->
 
 <!-- Distributions -->
