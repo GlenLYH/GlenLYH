@@ -43,9 +43,9 @@
 <a href="https://www.docusign.com/"><img align="center" src="https://github.com/GlenLYH/GlenLYH/blob/main/assets/docusign_logo/docusign.svg" title="DocuSign" alt="" height="30"/></a>
 <a href="https://www.stackerhq.com/"><img align="center" src="https://github.com/GlenLYH/GlenLYH/blob/main/assets/stacker_logo/stacker.svg" title="Stacker" alt="" height="30"/></a>
 </a>
-<!-- Possibly shift Pipedrive to the first few in the list.-->
 <a href="https://www.pipedrive.com/"><img align="center"
 src="https://github.com/GlenLYH/GlenLYH/blob/main/assets/pipedrive_logo/pipedrive_monogram_green_background.png" title="Pipedrive" alt="" height="30"/></a>
+<!-- Possibly shift Pipedrive to the first few in the list.-->
 
 <!-- Text Editors -->
 
